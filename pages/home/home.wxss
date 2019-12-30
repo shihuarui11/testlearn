@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+/* 有时保存一次没成功，多保存几次 */
+.title{
+  color: red;
+  font-size: 30px;
+}

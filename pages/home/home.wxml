@@ -1,0 +1,7 @@
+<!--pages/home/home.wxml-->
+
+<text class="title">Hello World</text>
+
+<button size='mini'>按钮</button>
+
+<image src="">网络图片地址/本地图片地址</image>
